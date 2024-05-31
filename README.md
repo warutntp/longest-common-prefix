@@ -78,8 +78,8 @@ test("should return the longest common prefix", () => {
 1. **Clone the repository**:
 
 ```bash
-git clone git@github.com:warutntp/quiz-app.git
-cd quiz-app
+git clone git@github.com:warutntp/longest-common-prefix.git
+cd longest-common-prefix
 ```
 
 2. **Install dependencies**: Run `npm install` to install the necessary dependencies.
